@@ -10,21 +10,24 @@
   <img align="right" width="50%" src="programmer.gif" alt="superlucky" />
 </p>
 
-<p>
-I'm a senior Full Stack Developer with 7 years of experience (web and mobile). Specialized in WebGL like Three.js and Babylon.js. Skilled in strong problem-solving, logic implementation, team-building, and project management.
-</p>
-<p>
- 
+Hi 👋 , 
+I'm a senior Full Stack Developer with 7 years of experience (web and mobile). Specialized in WebGL and OpenCV. Skilled in strong problem-solving, logic implementation, team-building, and project management.
+Now adays I’m interested in OpenAI and have 2 years of experience.
+
 ✅ My Favourite Development Languages are :
-   ◼  React & Redux &Three.js&Babylon.js
-   ◼ NodeJS & ExpressJS
-   ◼  JavaScript & TypeScript
+   ◼  React & Redux &Three.js
+   ◼ NodeJS & ExpressJS & Django
+   ◼  JavaScript & TypeScript & Python
    ◼  RESTFUL APIs
    ◼  React Native & Flutter
 ✅ Specialized in
    ◼  WebGL
    ◼  Implement Highest Speed and Quality
-   ◼  Make flexable 📱 response
+   ◼  AI and Machine Learning  
+   ◼  Image Analysis and Processing(OpenCV)
+   ◼  Natural Language Processing (NLP)
+   ◼  Data Analysis
+   ◼  Problem Solving
 
 🙋‍♂️ Several Main Points what can I suggest:
 - I'm here for a Win-🏆, your success is my success (and vice versa)
@@ -37,10 +40,6 @@ I'm a senior Full Stack Developer with 7 years of experience (web and mobile). S
 
 🙋🏼‍♂️I am eager to work with you, to provide reliable, consistent, and High-Level solutions to design/development challenges. Please contact me to discuss how we can work together to FULLY meet your Business Needs!
 
-</p>
-<p>
-  Skilled in working under pressure and adapting to new situations and challenges to contribute to the company's success.Collaborate with creative and development teams on the execution of ideas and projects.
-</p>
 
 ####      <div align="center">![](https://img.shields.io/badge/React-blue) ![](https://img.shields.io/badge/Next.js-blue) ![](https://img.shields.io/badge/Angular-blue) ![](https://img.shields.io/badge/Vue.js-blue) ![](https://img.shields.io/badge/TailwindCSS-blue) ![](https://img.shields.io/badge/AntDesign-blue) ![](https://img.shields.io/badge/MaterialUI-blue) ![](https://img.shields.io/badge/CleanUI-blue) ![](https://img.shields.io/badge/UI/UX-blue) ![](https://img.shields.io/badge/PHP-blue) ![](https://img.shields.io/badge/Laravel-blue) ![](https://img.shields.io/badge/CodeIgniter-blue) ![](https://img.shields.io/badge/Shopify-yellow) ![](https://img.shields.io/badge/Bubble.io-yellow) ![](https://img.shields.io/badge/Node.js-green) ![](https://img.shields.io/badge/ExpressJs-green)  ![](https://img.shields.io/badge/TypeScript-green) ![](https://img.shields.io/badge/JavaScript-green) ![](https://img.shields.io/badge/MERNStack-green) ![](https://img.shields.io/badge/AI-red) ![](https://img.shields.io/badge/MachineLearning-red) ![](https://img.shields.io/badge/OpenAI-red) ![](https://img.shields.io/badge/ChatGPT-red) ![](https://img.shields.io/badge/LLM-red) ![](https://img.shields.io/badge/LangChain-red) ![](https://img.shields.io/badge/AIChatBot-red) ![](https://img.shields.io/badge/GenerativeAI-red) ![](https://img.shields.io/badge/Python-red) ![](https://img.shields.io/badge/Django-red) ![](https://img.shields.io/badge/MySQL-purple) ![](https://img.shields.io/badge/MongoDB-purple) ![](https://img.shields.io/badge/PostgreSQL-purple)</div>
 
