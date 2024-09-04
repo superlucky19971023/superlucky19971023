@@ -16,12 +16,12 @@ I've got a ton of experience in image analysis and processing. I can detect obje
 I'm an expert in NLP. I can generate text, analyze sentiment, and translate languages using models like ChatGPT and MJ. 📚
 Now adays I’m interested in OpenAI and have 2 years of experience.
 
-✅ My Favourite Development Languages are :   \n
-   ◼  React & Redux  \n
-   ◼ NodeJS & ExpressJS & Django  \n
-   ◼  JavaScript & TypeScript & Python  \n
-   ◼  RESTFUL APIs  \n
-   ◼  React Native & Flutter  \n
+✅ My Favourite Development Languages are :   
+   ◼  React & Redux  
+   ◼ NodeJS & ExpressJS & Django  
+   ◼  JavaScript & TypeScript & Python  
+   ◼  RESTFUL APIs  
+   ◼  React Native & Flutter  
 ✅ Specialized in
    ◼  WebGL & Three.js & Babylon.js
    ◼  Implement Highest Speed and Quality
